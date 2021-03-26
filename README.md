@@ -11,6 +11,6 @@
 - 👯 I’m looking to collaborate on ...Django
 - 🤔 I’m looking for help with ...JSLibraries
 - 💬 Ask me about ...Anything
-- 📫 How to reach me: ... [YOUTUBE]
+- 📫 How to reach me: ... [YOUTUBE](https://www.youtube.com/cleavercode)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ...I'm Crazy To Learn
